@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+%F0%9F%92%A1;GenAI+%2B+Multimodal+LLM+Builder+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
-# Hi there, I'm Sifa! 👋
 
 # 💫 About Me
 
@@ -46,13 +45,28 @@ Fresh graduate Informatics Engineering turning data, GPT-4o, and Tableau dashboa
 
 **Testing & Tools:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
+**Design & Prototyping:** ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=%237D929E)
+
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asifalestari&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifalestari&layout=compact&theme=radical&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.shion.dev/api?username=asifalestari&theme=synthwave&show_icons=true&hide_border=false&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=asifalestari&theme=synthwave&hide_border=false" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asifalestari&theme=synthwave&hide_border=false&layout=compact" width="48%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asifalestari&color=blueviolet&style=flat-square)
 
 </div>
