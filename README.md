@@ -53,20 +53,11 @@ Fresh graduate Informatics Engineering turning data, GPT-4o, and Tableau dashboa
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=asifalestari&theme=synthwave&show_icons=true&hide_border=false&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=asifalestari&theme=synthwave&hide_border=false" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=asifalestari&theme=dark&hide_border=false" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asifalestari&theme=synthwave&hide_border=false&layout=compact" width="48%" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=asifalestari&color=blueviolet&style=flat-square)
+<img src="https://github-readme-stats.shion.dev/api?username=asifalestari&theme=dark&show_icons=true&hide_border=false&count_private=true" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asifalestari&theme=dark&hide_border=false&layout=compact" width="48%" />
 
 </div>
