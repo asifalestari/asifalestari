@@ -1,27 +1,92 @@
-# 💫 About Me:
-I'm currently working on<br>Applied GenAI & Multimodal LLM Systems** — Building accessible educational tools and AI Agents using **GPT-4o** and Python.<br>Data Analytics & Visualization** — Processing feedback datasets and building interactive dashboards using **Tableau, Power Query, and SQL**.<br>Software Quality & Systems Analysis** — Documenting functional requirements, test cases, and API interactions for scalable applications.<br><br>I'm looking to collaborate on<br>Data Science & AI/ML Projects** (specifically GenAI, LLMs, NLP, and Accessibility Tech).<br>Open-source Data Analytics Tools** or dashboards that solve real-world problems.<br>Hackathons & AI Innovation Challenges** focused on social impact, education, or SDGs.<br><br>I'm looking for help with<br>Deepening my hands-on expertise in **Advanced Analytics Engineering (dbt, BigQuery)** and production-level **AI Agent Deployment**.<br>Connecting with mentors and professionals in **Data Analysis, QA Automation, and Technical Project Management**.<br><br>I'm currently learning<br>Generative AI Engineering & AI Agents** (LangChain, RAG architecture, and prompt optimization).<br>Advanced SQL & Automated Testing Frameworks** (API testing with Postman & automation with Python).<br><br>Ask me about<br>Applied AI & Accessibility:** How I used GPT-4o to boost learning usability by 60% for visually impaired students.<br>Data Processing Pipeline:** Turning unstructured feedback text into actionable insight dashboards via Tableau & Power Query.<br>Agile & Project Management:** How to use RACI matrices, Gantt charts, and user flow mapping to keep tech projects structured.<br>Tech Competitions:** Lessons learned from being a **Global Top 100 Finalist at Google Solution Challenge** and placing **3rd at Microsoft APAC Virtual Hackathon**.<br><br>Fun Facts<br>Olympiad Mindset: I competed in Earth Science and Chemistry Olympiads back in high school—which explains why I enjoy structured logic, complex datasets, and measurable results over purely visual design! 🧪📊<br>From Pixels to Pipelines: I transitioned from UI/UX design to Data & Systems Analysis after realizing I love mapped flows, edge-case logic, and database schemas far more than visual aesthetics. 🔄<br>Double Duty in Leadership: I managed the treasury and secretariat of a tech lab for 2 years with 100% audit accuracy—so I treat both code and budgets with extreme precision! 💼🧾<br>Vibe Coding Enthusiast: I built an interactive *AI Accessibility Agent for Blind & Deaf Learners* during a Kaggle Hackathon using rapid AI prototyping ("vibe coding"). 🚀💡
+<div align="center">
 
+# Hi, I'm Sifa! 👋
+### **Data & AI Specialist | Systems & QA Analyst | S1 Computer Science**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asifa_lestari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asifalestari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifalestari12@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=asifalestari&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=asifalestari&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=asifalestari&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asifalestari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asifalestari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifalestari/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifalestari12@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asifa_lestari)
 
 ---
-[![](https://komarev.com/ghpvc/?username=asifalestari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 🚀 Quick Overview
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔭 Current Focus</h3>
+      <ul>
+        <li><b>Applied GenAI & LLMs:</b> Building AI Agents & accessible tools (GPT-4o, Python).</li>
+        <li><b>Data Analytics:</b> Turning raw datasets into interactive Tableau dashboards & SQL pipelines.</li>
+        <li><b>QA & Systems Analysis:</b> Documenting API flows, test cases, and edge-case logic.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌱 Learning & Collab</h3>
+      <ul>
+        <li><b>Collaborating on:</b> GenAI, Data Science, and Social Impact/SDG Hackathons.</li>
+        <li><b>Learning:</b> LangChain, RAG Architecture, Analytics Engineering (dbt), & QA Automation.</li>
+        <li><b>Ask me about:</b> How I boosted learning usability by +60% for visually impaired students using GPT-4o!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>💡 4 Quick Fun Facts About Me (Click to Expand)</b></summary>
+
+1. **Olympiad Mindset:** High school Earth Science & Chemistry Olympiad background = I thrive on structured logic & complex datasets! 🧪📊
+2. **Pixels to Pipelines:** Shifted from UI/UX to Data & Systems Analysis because I love mapped flows & database schemas over visual design. 🔄
+3. **Audit-Proof Precision:** Managed a tech lab's treasury & secretariat for 2 years with 100% audit accuracy. 💼🧾
+4. **Vibe Coding Enthusiast:** Built an *AI Accessibility Agent* for blind & deaf learners during a Kaggle Hackathon using rapid AI prototyping. 🚀
+</details>
+
+---
+
+## 💻 Tech & Tool Stack
+
+### **Data Analytics, AI & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Testing, Developer Tools & Cloud**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=asifalestari&theme=synthwave&show_icons=true&hide_border=false&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=asifalestari&theme=synthwave&hide_border=false" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asifalestari&theme=synthwave&hide_border=false&layout=compact" width="48%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asifalestari&color=blueviolet&style=flat-square)
+
+</div>
