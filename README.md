@@ -76,39 +76,6 @@ User Flow · Wireframing · Prototyping · Usability Testing · Design Systems
 
 ## 📌 Featured Projects
 
-### 🧠 EducaSee — AI-Assisted Accessible Learning System
-
-An AI-assisted web application designed to support accessible learning for visually impaired students.
-
-**Highlights:**
-
-- Built with **Python & Flask**
-- Integrated AI-powered processing into a web application workflow
-- Performed API validation using **Postman**
-- Used **Git/GitHub** for version control
-- Conducted iterative application testing and evaluation
-- Designed around real user needs through research with students and teachers
-
-**Tech:** `Python` `Flask` `HTML` `CSS` `JavaScript` `SQL` `Postman` `Git/GitHub` `Firebase` `LLM`
-
----
-
-### 📚 Splace Classroom — AI-Integrated Learning Platform
-
-An AI-integrated learning platform developed to support students and educators across multiple universities.
-
-**Highlights:**
-
-- Conducted research with **20+ students and lecturers**
-- Translated user needs into product and workflow requirements
-- Supported iterative application evaluation
-- Collaborated with developers and project stakeholders
-- Contributed to a project that received **national PKM Karsa Cipta funding**
-
-**Tech:** `AI/LLM` `Figma` `Whimsical` `Scrum` `Google Forms` `Excel`
-
----
-
 ### 📊 Garut Tourism Sentiment Analysis
 
 A machine learning project analyzing tourism reviews to identify sentiment patterns and support tourism promotion decisions.
