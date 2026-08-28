@@ -1,48 +1,155 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+%F0%9F%92%A1;GenAI+%2B+Multimodal+LLM+Builder+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Graduate+%F0%9F%92%BB;Web+%26+AI+Application+Builder+%F0%9F%A4%96;Frontend+%26+Full+Stack+Developer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-# 💫 About Me
+# 👋 Hi, I'm Asifa Lestari
 
-Fresh graduate Informatics Engineering turning data, GPT-4o, and Tableau dashboards into things people can actually use.
+I'm an **Informatics Engineering graduate from Universitas Komputer Indonesia (UNIKOM)** with a **3.81/4.00 GPA**, interested in building useful digital products through **web development, AI integration, and user-centered design**.
 
-🔭 **Working on:** Multimodal AI accessibility tools · feedback data dashboards
-🌱 **Learning:** GenAI/LLM engineering (RAG, prompt design) · advanced SQL & API testing
-🤝 **Open to:** GenAI/data projects, hackathons for social impact
-🙋 **Looking for:** mentors/connections in Data Analyst & QA careers
-💬 **Ask me about:** GPT-4o for accessibility · turning messy feedback into dashboards · Agile project structuring
+My experience spans across **frontend-oriented product development, AI-assisted applications, API validation, application testing, and UI/UX design**. I enjoy turning requirements and ideas into functional, understandable, and user-friendly digital experiences.
 
-⚡ **Fun facts**
-- 🧪 Ex-Olympiad kid (Earth Science & Chemistry) — still can't resist a good dataset
-- 🔄 Switched from UI/UX to data because flowcharts > color palettes
-- 🧾 2 years as treasurer, zero audit discrepancies — don't test me on spreadsheets
+Currently, I'm focusing on strengthening my skills in **modern web development and full-stack application development**.
 
-🏅 **Recognized in:** Google Solution Challenge Top 100 · Microsoft APAC Hackathon 3rd Place · PKM-Karsa Cipta Awardee · Mobile UI/UX Competition 1st Place
+### 🚀 What I'm Working On
 
-<br>
+- 🌐 Building and improving **web applications**
+- 🧩 Learning modern **frontend development workflows**
+- 🔌 Working with **APIs, structured data, and backend services**
+- 🤖 Exploring **AI/LLM integration in web applications**
+- 🛠️ Improving my skills in **Git, testing, debugging, and clean development practices**
+- 🎨 Combining **UI/UX principles with frontend implementation**
 
-## 🌐 Connect
+### 💡 What I Bring
 
-<div align="center">
+- Strong foundation in **Informatics Engineering & Software Engineering**
+- Experience working on **AI-integrated applications**
+- Hands-on experience with **HTML, CSS, JavaScript, Python, Flask, SQL, and APIs**
+- Familiar with **Git/GitHub and collaborative development workflows**
+- Understanding of **responsive interfaces and user-centered design**
+- Experience collaborating with **developers, designers, product teams, and users**
+- Comfortable learning new technologies and receiving **code review & feedback**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asifa_lestari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifalestari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifalestari12@gmail.com)
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<br>
+### 🌐 Web Development
 
-## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data & AI:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+### 🔌 API, Development & Testing
 
-**Web & Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Database & Cloud:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+### 🤖 AI & Data
 
-**Testing & Tools:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-**Design & Prototyping:** ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=%237D929E)
+Generative AI · LLM Integration · Prompt Engineering · Machine Learning Fundamentals
+
+### 🎨 UI/UX & Product
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-7B61FF?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+
+User Flow · Wireframing · Prototyping · Usability Testing · Design Systems
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 EducaSee — AI-Assisted Accessible Learning System
+
+An AI-assisted web application designed to support accessible learning for visually impaired students.
+
+**Highlights:**
+
+- Built with **Python & Flask**
+- Integrated AI-powered processing into a web application workflow
+- Performed API validation using **Postman**
+- Used **Git/GitHub** for version control
+- Conducted iterative application testing and evaluation
+- Designed around real user needs through research with students and teachers
+
+**Tech:** `Python` `Flask` `HTML` `CSS` `JavaScript` `SQL` `Postman` `Git/GitHub` `Firebase` `LLM`
+
+---
+
+### 📚 Splace Classroom — AI-Integrated Learning Platform
+
+An AI-integrated learning platform developed to support students and educators across multiple universities.
+
+**Highlights:**
+
+- Conducted research with **20+ students and lecturers**
+- Translated user needs into product and workflow requirements
+- Supported iterative application evaluation
+- Collaborated with developers and project stakeholders
+- Contributed to a project that received **national PKM Karsa Cipta funding**
+
+**Tech:** `AI/LLM` `Figma` `Whimsical` `Scrum` `Google Forms` `Excel`
+
+---
+
+### 📊 Garut Tourism Sentiment Analysis
+
+A machine learning project analyzing tourism reviews to identify sentiment patterns and support tourism promotion decisions.
+
+**Highlights:**
+
+- Collected and processed thousands of tourism reviews
+- Applied **TF-IDF and Linear SVM** for sentiment classification
+- Performed data preprocessing and model evaluation
+- Developed an end-to-end data processing workflow using Python
+
+**Tech:** `Python` `Pandas` `scikit-learn` `TF-IDF` `Linear SVM`
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place** — Mobile UI/UX Competition (MUC) iFest 2023  
+🌎 **Global Top 100 Finalist** — Google Solution Challenge 2024  
+🏅 **PKM Karsa Cipta Funding Awardee** — Kemendikbud Ristek RI 2024  
+🥉 **3rd Place & Most Innovative Submission** — Microsoft Azure Competition 2022
+
+---
+
+## 📜 Certifications
+
+- **Junior Web Programming** — Badan Nasional Sertifikasi Profesi (BNSP)
+- **Google Project Management Professional Certificate** — Coursera
+- **EF SET English Certification — C1 Advanced**
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Modern Frontend Development
+        ↓
+JavaScript → TypeScript → React / Next.js
+        ↓
+API Integration & Backend Services
+        ↓
+Testing → Clean Code → CI/CD
+        ↓
+Full-Stack Web Development
